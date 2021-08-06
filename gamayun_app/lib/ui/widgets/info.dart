@@ -1,0 +1,1 @@
+//contiene los widgets comunes a toda la applicacion
